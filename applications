@@ -1,0 +1,72 @@
+<html>
+<head>
+  <header>
+    <h1>My Website</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="history.html">History of Blockchain</a>
+      <a href="applications.html">Useful applications of Blockchain</a>
+    </nav>
+  </header>
+  <title>Useful Blockchain Applications</title>
+  <style>
+  body {
+      margin: 0;
+      padding: 0;
+      font-family: sans-serif;
+    }
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+    }
+    nav {
+      background-color: #ccc;
+      padding: 10px;
+    }
+    nav a {
+      color: #333;
+      text-decoration: none;
+      margin-right: 10px;
+    }
+    main {
+      padding: 20px;
+    }
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Useful Blockchain Applications</h1>
+  <table>
+    <tr>
+      <th>Application</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>Cryptocurrency</td>
+      <td>A digital or virtual currency that uses cryptography for security and is decentralized, meaning it is not controlled by a central authority such as a bank or government.</td>
+    </tr>
+    <tr>
+      <td>Smart contracts</td>
+      <td>Computer programs that automatically execute the terms of a contract when certain conditions are met. They are often used in blockchain applications to facilitate, verify, and enforce the negotiation or performance of a contract.</td>
+    </tr>
+    <tr>
+      <td>Supply chain management</td>
+      <td>The tracking and coordination of the movement of goods, information, and finances along the supply chain from raw materials to the end customer. Blockchain technology can be used to improve supply chain visibility, traceability, and security.</td>
+    </tr>
+    <tr>
+      <td>Identity management</td>
+      <td>The process of creating, storing, and using digital identities for individuals, organizations, and other entities. Blockchain technology can be used to create decentralized, secure, and verifiable digital identity systems.</td>
+    </tr>
+    <tr>
+      <td>Voting systems</td>
+      <td>Electronic systems for casting and counting votes in elections. Blockchain technology can be used to improve the security, transparency, and reliability of voting systems.</td>
+    </tr>
+  </table>
+</body>
+</html>
